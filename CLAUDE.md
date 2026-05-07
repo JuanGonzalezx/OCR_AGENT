@@ -12,7 +12,7 @@ Microservicio HTTP que recibe imagen de factura y devuelve JSON estructurado con
 - Deploy: Render.com
 
 ## Variables de entorno
-- `GEMINI_API_KEY: AIzaSyCFBVBKEh_ry5W5zdnpYtOcNgxJx39Hr0w` — API key de Google AI Studio
+- `GEMINI_API_KEY: ` — API key de Google AI Studio
 - `PORT` — Puerto (Render lo inyecta automáticamente)
 - `LOG_LEVEL` — INFO por defecto
 
